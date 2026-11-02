@@ -1,0 +1,10 @@
+{
+  "name": "atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "dependencies": {
+    "@solana/web3.js": "1.99.0"
+  }
+}
